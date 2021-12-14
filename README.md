@@ -11,4 +11,8 @@ Just learning to use beautiful soup
 
 ### Tools to install before running the programs.
 
-Later
+Pandas
+Numpy
+Regular Expression
+Json
+
